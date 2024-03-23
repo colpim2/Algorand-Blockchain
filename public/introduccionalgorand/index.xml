@@ -11,47 +11,41 @@
       <link>/introduccionalgorand/introduccion/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/introduccionalgorand/introduccion/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: Algorand es una blockchain que aspira a ser la solución del trilema de blockchain con el uso del protocolo PoS y VRF (Función Aleatoria Verificable o Verifiable Random Functions). Soporta contratos inteligentes sobre su máquina virtual (AVM, Algorand Virtual Machine) y su moneda nativa es el ALGO. Algorand fue fundada en 2017 por Silvio Micali, un profesor del MIT. La red de prueba de Algorand fue lanzada al público en abril de 2019​ y la red principal en junio de 2019.</description>
+    </item>
+    <item>
+      <title>Protocolo de Consenso Pure Proof of Stake</title>
+      <link>/introduccionalgorand/protocoloconsenso/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccionalgorand/protocoloconsenso/index.html</guid>
+      <description>Tiempo estimado: Usa el protocolo Pure Proof of Stake La probabilidad de ser elegido es proporcional a la participación. Cada ALGO es un “billete de loteria” Usa la técnica denominada Función Aleatoria Verificable. Consta de tres pasos Propuesta de Bloque Filtrado de Bloque Quórum y certificación Video Explicativo Siguiente </description>
+    </item>
+    <item>
+      <title>Funcionalidad Importante</title>
+      <link>/introduccionalgorand/funcionalidad/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccionalgorand/funcionalidad/index.html</guid>
+      <description>Tiempo estimado: Contratos Inteligentes. Pueden desarrollarse en diversos lenguajes de programación para ejecutarse sobre la maquina virtual de Algorand (AVM). Algorand Standard Assets (ASA). Un activo personalizado y fácil de crear. Transferencias Atómicas. La posibilidad de integrar varias transacciones en un solo proceso atómico. Cambio de llave (Rekeying). Cambiar la llave privada asociada a una llave pública las veces que sea necesario. Siguiente </description>
     </item>
     <item>
       <title>Ecosistema y casos de uso</title>
       <link>/introduccionalgorand/ecosistema/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/introduccionalgorand/ecosistema/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: Existen varios casos de uso exitosos, que van desde las NFTs y las DeFi hasta la renta de propiedades y boletos de avión.
+Conocer más: https://www.algorand.foundation/ecosystem
+Material adicional Siguiente </description>
     </item>
     <item>
-      <title>Características de la capa 1</title>
-      <link>/introduccionalgorand/caracteristicas/index.html</link>
+      <title>Recursos Generales</title>
+      <link>/introduccionalgorand/recursosgenerales/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/introduccionalgorand/caracteristicas/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Configuración del entorno de desarrollo</title>
-      <link>/introduccionalgorand/configuracion/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/introduccionalgorand/configuracion/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Conociendo los SDK de Algorand</title>
-      <link>/introduccionalgorand/sdk/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/introduccionalgorand/sdk/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Evaluación</title>
-      <link>/introduccionalgorand/evaluacion/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/introduccionalgorand/evaluacion/index.html</guid>
-      <description>Introducción a Algorand ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+      <guid>/introduccionalgorand/recursosgenerales/index.html</guid>
+      <description>Tiempo estimado: Discord: discord.gg/Algorand
+Página para desarrolladores: developer.algorand.org
+YouTube: YouTube/Algorand
+Twitter: @AlgoDevs
+Material adicional Siguiente unidad </description>
     </item>
   </channel>
 </rss>

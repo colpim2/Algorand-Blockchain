@@ -11,15 +11,8 @@
       <link>/introduccion/introduccion/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/introduccion/introduccion/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Evaluación</title>
-      <link>/introduccion/evaluacion/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/introduccion/evaluacion/index.html</guid>
-      <description>Introducción ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+      <description>Tiempo estimado: Objetivo General Conocer los conceptos teóricos básicos que dan fundamento a blockchain (cadenas de bloques). Implementar contratos inteligentes y una pequeña aplicación distribuida usando la tecnología de Algorand. Introducción Blockchain es uno de los nuevos campos de la computación que ha avanzado a pasos rápidos y que, como consecuencia, debemos conocer.
+Este curso ha sido diseñado para cubrir los principios básicos hasta los más avanzados de la tecnología Blockchain, empezando por sus orígenes y avanzando por los conceptos criptográficos que han hecho posible su construcción.</description>
     </item>
   </channel>
 </rss>

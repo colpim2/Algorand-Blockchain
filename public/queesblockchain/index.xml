@@ -11,39 +11,36 @@
       <link>/queesblockchain/definicion/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/queesblockchain/definicion/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: Blockchain, traducido al español como cadena de bloques, es un registro único, consensuado y distribuido en varios nodos pertenecientes a una red. En otras palabras, es un registro histórico de todas las transacciones entre los nodos.
+Cada bloque de la blockchain contiene información referente a una transacción y a su vez está ligado al bloque anterior, de tal forma que corromper el bloque actual o alterar la cadena es computacionalmente muy difícil, pues la información actual no coincidiría con la que tiene el bloque anterior.</description>
     </item>
     <item>
       <title>Elementos básicos y estructura de Blockchain</title>
       <link>/queesblockchain/elementosbasicos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/queesblockchain/elementosbasicos/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: La estructura de una blockchain particular, así como sus elementos fundamentales, pueden diferir según su aplicación, no obstante, una cadena de bloques comparte elementos genéricos, estos son:
+Red punto a punto
+Red punto a punto Una blockchain utiliza la topología punto a punto donde cada peer es un nodo que pertenece a la Blockchain.
+Direcciones
+Son identificadores únicos usados en las transacciones de la blockchain. Con las direcciones se reconoce el emisor y el receptor.</description>
     </item>
     <item>
-      <title>Mecanismos de seguridad (Hash, Árbol de Hash, Firma Digital, Wallets)</title>
+      <title>Mecanismos de seguridad</title>
       <link>/queesblockchain/mecanismosseguridad/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/queesblockchain/mecanismosseguridad/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: Blockchain es capaz de ofrecer los siguientes servicios de seguridad.
+Confidencialidad Autenticación Integridad Control de Acceso No repudio Para esto usa los siguientes mecanismos de seguridad.
+Código de detección de modificaciones Código de autenticación del mensaje Firma digital Cifrado Control de acceso Relleno de tráfico Control de encaminamiento Funciones Hash Siguiente </description>
     </item>
     <item>
       <title>Generación de bloques y funcionamiento básico</title>
       <link>/queesblockchain/generacionbloques/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/queesblockchain/generacionbloques/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Evaluación</title>
-      <link>/queesblockchain/evaluacion/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/queesblockchain/evaluacion/index.html</guid>
-      <description>Qué es Blockchain ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+      <description>Tiempo estimado: Blockchain es una BDD, compartida por un gran número de usuarios, bajo una arquitectura punto a punto donde la información almacenada es ordenada y no puede ser modificada.
+La información se contiene en estructuras llamadas “bloques”. Los bloques forman una cadena con el orden en que fueron creados y se liga el bloque actual con el anterior. Los bloques sólo pueden ser creados por los nodos miembros de la blockchain (adicionalmente tiene que tener la función de minero) y únicamente se agregan a la cadena previa cuando existe un “acuerdo” entre la mayoría de los nodos, este acuerdo lleva el nombre de algoritmo de consenso y pretende que sólo se una a la blockchain bloques cuya información de verdadera y válida, pues una vez añadido el bloque la cadena no puede modificarse.</description>
     </item>
   </channel>
 </rss>

@@ -11,43 +11,43 @@
       <link>/introduccion/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/introduccion/index.html</guid>
-      <description>Lorem Ipsum.
-Empezar </description>
-    </item>
-    <item>
-      <title>Sistemas Distribuidos</title>
-      <link>/sistemasdistribuidos/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sistemasdistribuidos/index.html</guid>
-      <description>Tiempo estimado: 2hrs Empezar </description>
+      <description>Tiempo estimado: Requerimientos Conocimientos básicos de programación en Python Cuenta de GitHub o GitLab Cuenta de Gitpod Empezar </description>
     </item>
     <item>
       <title>¿Qué es Blockchain?</title>
       <link>/queesblockchain/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/queesblockchain/index.html</guid>
-      <description>Tiempo estimado: 3hrs Empezar </description>
+      <description>Tiempo estimado: Definición Blockchain Elementos básicos y estructura de Blockchain Servicios y mecanismos de seguridad Generación de bloques y funcionamiento básico Empezar </description>
     </item>
     <item>
-      <title>Protocolos de consenso</title>
-      <link>/protocolosconsenso/index.html</link>
+      <title>Sistemas Distribuidos</title>
+      <link>/sistemasdistribuidos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/protocolosconsenso/index.html</guid>
-      <description>Tiempo estimado: 3hrs Empezar </description>
+      <guid>/sistemasdistribuidos/index.html</guid>
+      <description>Tiempo estimado: hrs Qué es un Sistema Distribuido Protocolos de consenso Empezar </description>
+    </item>
+    <item>
+      <title>Criptografia</title>
+      <link>/criptografia/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/criptografia/index.html</guid>
+      <description>Tiempo estimado: Hash Firma Digital Árbol de Hash Empezar </description>
     </item>
     <item>
       <title>Introducción a Algorand</title>
       <link>/introduccionalgorand/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/introduccionalgorand/index.html</guid>
-      <description>Tiempo estimado: 2hrs Empezar </description>
+      <description>Tiempo estimado: Introducción a Algorand y características generales Protocolo de Consenso Pure Proof of Stake Funcionalidad importante Ecosistema y casos de uso Entorno de desarrollo y SDKs Recursos Generales Empezar </description>
     </item>
     <item>
       <title>Creación y despliegue de contratos inteligentes</title>
       <link>/creacioncontratos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/creacioncontratos/index.html</guid>
-      <description>Tiempo estimado: 5hrs Empezar </description>
+      <description>Tiempo estimado: Esta última sección es totalmente práctica. Aquí aprenderás los conceptos básicos de programación en Algorand:
+Transacciones Activos Transferencias Atómicas Empezar </description>
     </item>
   </channel>
 </rss>

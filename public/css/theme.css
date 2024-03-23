@@ -1799,4 +1799,3 @@ article ul > li > input[type="checkbox"]:checked::before {
 html[dir="rtl"] #sidebar ul.collapsible-menu > li > label > i.fa-chevron-right {
     transform: scaleX(-1);
 }
-

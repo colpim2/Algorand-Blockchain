@@ -11,31 +11,16 @@
       <link>/sistemasdistribuidos/quees/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/sistemasdistribuidos/quees/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+      <description>Tiempo estimado: Un Sistema Distribuido (SD) es una colección de entidades que cooperan para resolver un problema que no puede ser resuelto por una sola entidad.
+En computación, un sistema distribuido es un conjunto de elementos de hardware y software conectados a través de una red de datos, capaz de comunicarse y coordinar sus acciones únicamente mediante el paso de mensajes.
+Material adicional 3. Sistemas Distribuidos.pdf (3 MB) Siguiente </description>
     </item>
     <item>
-      <title>Diferencias entre distribuido y descentralizado</title>
-      <link>/sistemasdistribuidos/diferencias/index.html</link>
+      <title>Protocolos de Consenso</title>
+      <link>/sistemasdistribuidos/protocoloconsenso/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sistemasdistribuidos/diferencias/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Bases de datos distribuidas punto a punto (BDD)</title>
-      <link>/sistemasdistribuidos/basesdatos/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sistemasdistribuidos/basesdatos/index.html</guid>
-      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
-Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Evaluación</title>
-      <link>/sistemasdistribuidos/evaluacion/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/sistemasdistribuidos/evaluacion/index.html</guid>
-      <description>Sistemas Distribuidos ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+      <guid>/sistemasdistribuidos/protocoloconsenso/index.html</guid>
+      <description>Tiempo estimado: Una de las principales características de Blockchain es la posibilidad de trabajar sin depender de ninguna otra entidad o de terceros. Esto lo logra apoyándose en la comunidad conformada por sus propios usuarios (o nodos) para verificar si las transacciones que se realizan son genuinas. La forma en la que se realizan dichas verificaciones varía de red a red, pero en general se utilizan los protocolos de consenso.</description>
     </item>
   </channel>
 </rss>
