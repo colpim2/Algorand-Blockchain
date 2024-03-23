@@ -1,0 +1,2 @@
+@import "theme-Algorand-light.css" screen and (prefers-color-scheme: light);
+@import "theme-Algorand-dark.css" screen and (prefers-color-scheme: dark);

@@ -1,0 +1,71 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'BlockChain Algorand'
+
+theme = "hugo-theme-relearn"
+
+[params]
+  # This controls whether submenus will be expanded (true), or collapsed (false)
+  alwaysopen = false
+
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = true
+
+  # Disable search function. It will hide search bar
+  disableSearch = true
+
+  # Disable search in hidden pages, otherwise they will be shown in search box
+  disableSearchHiddenPages = true
+  # Disables hidden pages from showing up in the sitemap and on Google (et all), otherwise they may be indexed by search engines
+  disableSeoHiddenPages = true
+  # Disables hidden pages from showing up on the tags page although the tag term will be displayed even if all pages are hidden
+  disableTagHiddenPages = true
+
+  # Javascript and CSS cache are automatically busted when new version of site is generated.
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = false
+  # Set this to true if you want to disable generation for generator version meta tags of hugo and the theme;
+  # don't forget to also set Hugo's disableHugoGeneratorInject=true, otherwise it will generate a meta tag into your home page
+  disableGeneratorVersion = false
+
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it.
+  disableShortcutsTitle = false
+
+  # If set to false, a Home button will appear below the search bar on the menu.
+  # It is redirecting to the landing page of the current language if specified. (Default is "/")
+  disableLandingPageButton = true
+
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = true
+  
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = true
+
+  # If set to true, hide table of contents menu in the header of all pages
+  disableToc = true
+
+  # If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
+  disableMathJax = true
+
+   # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
+
+  # Order sections in menu by "weight" or "title". Default to "weight";
+  # this can be overridden in the pages frontmatter
+  ordersectionsby = "weight"
+
+  # Change default color scheme with a variant one. 
+  themeVariant = [ "Algorand-light", "Algorand-dark" ]
+
+  # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
+  collapsibleMenu = false
+
+#Error with Quizdown
+[minify]
+  disableHTML = true
+
+#Button positioning
+[markup.goldmark.renderer]
+    unsafe = true

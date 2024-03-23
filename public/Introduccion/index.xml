@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introducción on BlockChain Algorand</title>
+    <link>/introduccion/index.html</link>
+    <description>Recent content in Introducción on BlockChain Algorand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/introduccion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción</title>
+      <link>/introduccion/introduccion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccion/introduccion/index.html</guid>
+      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
+Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Evaluación</title>
+      <link>/introduccion/evaluacion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccion/evaluacion/index.html</guid>
+      <description>Introducción ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+    </item>
+  </channel>
+</rss>

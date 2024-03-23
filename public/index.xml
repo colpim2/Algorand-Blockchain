@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlockChain Algorand</title>
+    <link>/index.html</link>
+    <description>Recent content on BlockChain Algorand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducción</title>
+      <link>/introduccion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccion/index.html</guid>
+      <description>Lorem Ipsum.
+Empezar </description>
+    </item>
+    <item>
+      <title>Sistemas Distribuidos</title>
+      <link>/sistemasdistribuidos/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sistemasdistribuidos/index.html</guid>
+      <description>Tiempo estimado: 2hrs Empezar </description>
+    </item>
+    <item>
+      <title>¿Qué es Blockchain?</title>
+      <link>/queesblockchain/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/queesblockchain/index.html</guid>
+      <description>Tiempo estimado: 3hrs Empezar </description>
+    </item>
+    <item>
+      <title>Protocolos de consenso</title>
+      <link>/protocolosconsenso/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/index.html</guid>
+      <description>Tiempo estimado: 3hrs Empezar </description>
+    </item>
+    <item>
+      <title>Introducción a Algorand</title>
+      <link>/introduccionalgorand/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/introduccionalgorand/index.html</guid>
+      <description>Tiempo estimado: 2hrs Empezar </description>
+    </item>
+    <item>
+      <title>Creación y despliegue de contratos inteligentes</title>
+      <link>/creacioncontratos/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/creacioncontratos/index.html</guid>
+      <description>Tiempo estimado: 5hrs Empezar </description>
+    </item>
+  </channel>
+</rss>

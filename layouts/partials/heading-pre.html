@@ -1,0 +1,15 @@
+{{ .Params.headingPre | safeHTML }}
+{{- $themevariants := slice | append (.Site.Params.themeVariant | default "auto" ) }}
+
+
+<div class="padding select-container">
+  <i class="fas fa-toggle-on fw-fa"></i>
+  <div class="select-style">
+    <select id="select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+      <option value="Algorand-light" select> Light Mode </option>
+      <option value="Algorand-dark"> Dark Mode </option>
+    </select>
+  </div>
+</div>
+
+<script>window.variants && variants.markSelectedVariant();</script>

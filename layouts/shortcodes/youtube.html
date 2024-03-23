@@ -1,0 +1,15 @@
+{{- $pc := .Page.Site.Config.Privacy.YouTube -}}
+{{- if not $pc.Disable -}}
+{{- $ytHost := cond $pc.PrivacyEnhanced  "www.youtube-nocookie.com" "www.youtube.com" -}}
+{{- $id := .Get "id" | default (.Get 0) -}}
+{{- $class := .Get "class" | default (.Get 1) -}}
+{{- $title := .Get "title" | default "YouTube Video" }}
+<div align = "center">
+  <iframe src="https://{{ $ytHost }}/embed/{{ $id }}{{ with .Get "autoplay" }}{{ if eq . "true" }}?autoplay=1{{ end }}{{ end }}" 
+  {{ if not $class }}width="560" height="315" frameborder="0"{{ end }}
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen 
+  title="{{ $title }}"></iframe>
+</div>
+{{ end -}}
+

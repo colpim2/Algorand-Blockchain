@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocolos de consenso on BlockChain Algorand</title>
+    <link>/protocolosconsenso/index.html</link>
+    <description>Recent content in Protocolos de consenso on BlockChain Algorand</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/protocolosconsenso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es un protocolo de consenso?</title>
+      <link>/protocolosconsenso/quees/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/quees/index.html</guid>
+      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
+Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>¿Qué hacen los protocolos de consenso?</title>
+      <link>/protocolosconsenso/quehacen/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/quehacen/index.html</guid>
+      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
+Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>El problema del general bizantino</title>
+      <link>/protocolosconsenso/problemabizantino/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/problemabizantino/index.html</guid>
+      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
+Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Diferentes tipos de consenso (Proof of Work y Proff of Stake, PPoS)</title>
+      <link>/protocolosconsenso/tiposde/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/tiposde/index.html</guid>
+      <description>Tiempo estimado: Objetivo Objetivo: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt non felis sed auctor. Nam at justo id purus consectetur egestas sed id odio. Sed molestie leo diam. Praesent efficitur laoreet semper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam tristique erat eget diam efficitur, vitae pellentesque risus lacinia. Praesent vel feugiat turpis.
+Introducción Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    <item>
+      <title>Evaluación</title>
+      <link>/protocolosconsenso/evaluacion/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/protocolosconsenso/evaluacion/index.html</guid>
+      <description>Protocolos de consenso ---primary_color: tealsecondary_color: lightgraytext_color: blackshuffle_questions: false---### ¿--?---shuffle_answers: true--- Selecciona 1&gt; Tip: 1. [ ] Esta no&gt; Lee más atentamente.1. [ ] Esta tampoco&gt; Lee más atentamente.1. [x] Selecciona esta&gt; Correcto era esta.## ¿---?---shuffle_answers: false--- Selección Múltiple&gt; Tip: - [x] Si&gt; Correcto.- [x] Si&gt; Correcto.- [x] Si&gt; Correcto.</description>
+    </item>
+  </channel>
+</rss>
