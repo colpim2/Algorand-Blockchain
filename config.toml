@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://algorand-blockchain.netlify.app/'
 languageCode = 'en-us'
 title = 'BlockChain Algorand'
 
